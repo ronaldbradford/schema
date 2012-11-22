@@ -1,0 +1,4 @@
+schema
+======
+
+Example MySQL Schemas
