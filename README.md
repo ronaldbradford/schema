@@ -5,7 +5,7 @@ Example MySQL Schemas from open-source projects
 
 You can contribute any schema with the following syntax:
 
-$ mysqldump -u<user> -p --skip-lock-tables --no-data --databases <schema> > <schema>.sql
+    $ mysqldump -u[user] -p --skip-lock-tables --no-data --databases [schema] > [schema].sql
 
 
 Existing schemas include:
