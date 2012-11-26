@@ -1,3 +1,6 @@
+CREATE SCHEMA IF NOT EXISTS ezpublish;
+USE ezpublish;
+
 CREATE TABLE ezapprove_items (
   collaboration_id int(11) NOT NULL default '0',
   id int(11) NOT NULL auto_increment,
